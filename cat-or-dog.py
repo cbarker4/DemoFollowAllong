@@ -1,3 +1,14 @@
+'''
+Cat or Dog?
+CPSC 323-01
+Sam Berkson
+
+In this project, I will endeavor to create a convolutional neural network to classify images of cats and dogs.
+
+I removed the code out of a ipynb and have gained permission to use it 
+
+'''
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
